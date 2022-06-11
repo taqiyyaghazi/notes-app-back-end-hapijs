@@ -52,9 +52,9 @@ Body Request
 Body Request
 ```json
 {
-    "title": "Your title",
-    "tags": "Your tags note",
-    "body": "Your body note"
+    "title": "Your title update",
+    "tags": "Your tags note update",
+    "body": "Your body note update"
 }
 ```
 
@@ -68,17 +68,6 @@ Body Request
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to delete |
 
-
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## Run Locally
 

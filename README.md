@@ -74,7 +74,7 @@ Body Request
 Clone the project
 
 ```bash
-  git clone https://github.com/taqiyyaghazi/notes-app-back-end-hapijs
+  git clone https://github.com/taqiyyaghazi/notes-app-back-end-hapijs.git
 ```
 
 Go to the project directory

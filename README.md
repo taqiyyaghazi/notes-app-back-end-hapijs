@@ -1,7 +1,7 @@
 
 # Notes App Back End
 
-This project is the creation of a back end system for managing records such as creating,
+This project is the creation of a back end system for managing notes such as creating,
 edit, view, and delete (CRUD).
 
 
